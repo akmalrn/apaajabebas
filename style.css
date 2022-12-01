@@ -62,10 +62,10 @@ margin:0px 50px 0px 50px;
 margin:0px 50px 0px 50px;
 }
 
-h3 {color:white}
 
-article {color:black}
 
-footer{margin:50px -5px;
+
+footer{margin:50px -5px -100px 0px;
 background-color: aqua;
+text-align: center;
 }
