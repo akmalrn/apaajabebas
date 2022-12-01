@@ -1,0 +1,19 @@
+h1 {margin:4px 4px 4px 570PX;}
+img{margin:4px 4px 4px 450x;}
+.box {
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: groove;
+    border-left-style: double;
+  
+    border-width: 4px;
+    border-color: red;
+    width: 200px;
+    height: 50px;
+ }
+body { background-color: gray;}
+h1 { text-shadow: 2px 2px 2px rgb(255, 255, 255);
+font-family:monospace;
+font-weight: 10000000;}
+div {text-align: center;}
+a { color: blue; margin : 4px 4px 4px 10px; text-shadow: 1px 1px 1px rgb(0, 255, 170)}
